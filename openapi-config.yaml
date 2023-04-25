@@ -1,0 +1,5 @@
+# https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/typescript-fetch.md
+additionalProperties:
+  useTags: true
+  allowUnicodeIdentifiers: true
+  prefixParameterInterfaces: true
